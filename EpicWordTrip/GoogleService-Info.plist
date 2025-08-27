@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>652285163532-mba22208j9gdu5fp6jsdhgfv66ajc1b3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.652285163532-mba22208j9gdu5fp6jsdhgfv66ajc1b3</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA97ITyh3bSMOAIQ7Y0JC0yuuxcTpt71qw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>652285163532</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Samantha.EpicWordTrip</string>
+	<key>PROJECT_ID</key>
+	<string>epicwordtrip</string>
+	<key>STORAGE_BUCKET</key>
+	<string>epicwordtrip.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:652285163532:ios:ecf864e377fa4ee7199629</string>
+</dict>
+</plist>
